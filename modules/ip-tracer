@@ -1,5 +1,5 @@
 # Tool Name :- IP-Tracer
-# Author :- CLB-09
+# Author :- CLB 09
 # Date :- 23/11/2021
 # Powered By :- ABDUL BASIT KAMBOH Software's
 if [ -d /data/data/com.termux/files/usr/share ];then
