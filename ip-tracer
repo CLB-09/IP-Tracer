@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Tool Name :- IP-Tracer
 # Author :- CLB-09
-# Date :- 23.11.2021
+# Date :- 23/11/2021
 
 case "$1" in
   -m)
